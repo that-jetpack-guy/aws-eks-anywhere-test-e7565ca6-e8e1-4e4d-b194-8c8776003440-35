@@ -31,7 +31,7 @@ spec:
   template:
     spec:
       containers:
-      - image: public.ecr.aws/l0g8r8j6/fluxcd/helm-controller:v0.22.2-eks-a-v0.0.0-dev-build.3491
+      - image: public.ecr.aws/l0g8r8j6/fluxcd/helm-controller:v0.22.2-eks-a-v0.0.0-dev-build.3490
         name: manager
 ---
 apiVersion: apps/v1
